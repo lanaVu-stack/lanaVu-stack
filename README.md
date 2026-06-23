@@ -6,6 +6,8 @@ I am an Information Technology major at Towson University with a Network Securit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lana-vu-)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lana_vuuu/)
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -58,6 +60,4 @@ Python web scraping project using Requests and BeautifulSoup to extract web craw
 - Business Analysis for Project Managers
 - Direct Support Professional Certified - Level I
 
-## 📊 GitHub Stats
-
-![Lana Vu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanaVu-stack&show_icons=true&theme=dark)
+[![Instagram](https://img.shields.io/badge/Instagram-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME/)
