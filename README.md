@@ -1,6 +1,6 @@
 # Hi, I'm Lana Vu! 👋
 
-I am a Information Technology Major at Towson University, with a Network Security Track. I am interested in databases, cloud computing, IT support, accessibility technology, and digital systems.
+I am an Information Technology major at Towson University with a Network Security track. I am interested in databases, cloud computing, IT support, accessibility technology, and digital systems.
 
 ## 🌐 Socials
 
