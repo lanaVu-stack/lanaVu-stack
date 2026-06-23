@@ -60,4 +60,6 @@ Python web scraping project using Requests and BeautifulSoup to extract web craw
 - Business Analysis for Project Managers
 - Direct Support Professional Certified - Level I
 
-[![Instagram](https://img.shields.io/badge/Instagram-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME/)
+## 📊 GitHub Stats
+
+![Lana Vu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanaVu-stack&show_icons=true&title_color=7DD3FC&text_color=E0F2FE&icon_color=38BDF8&bg_color=020617&border_color=2563EB)
