@@ -60,4 +60,4 @@ Python web scraping project using Requests and BeautifulSoup to extract web craw
 
 ## 📊 GitHub Stats
 
-![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaVu-stack&show_icons=true&theme=default)
+![Lana Vu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanaVu-stack&show_icons=true&theme=dark)
