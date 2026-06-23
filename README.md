@@ -32,10 +32,10 @@ I am an Information Technology major at Towson University with a Network Securit
 
 ## 📌 Featured Projects
 
-### Tri-SQL Systems Database Project
+### [Tri-SQL Systems Database Project](https://github.com/lanaVu-stack/TriSQL-Systems-Database)
 Relational SQLite database project for a simulated technology consulting and product support business.
 
-### Python Web Crawler Scraper
+### [Python Web Crawler Scraper](https://github.com/lanaVu-stack/Python-Web-Crawler-Scraper)
 Python web scraping project using Requests and BeautifulSoup to extract web crawler-related information from a webpage.
 
 ## 📚 Currently Learning
@@ -43,3 +43,21 @@ Python web scraping project using Requests and BeautifulSoup to extract web craw
 ![Network Security](https://img.shields.io/badge/Network_Security-1F6FEB?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Accessibility Technology](https://img.shields.io/badge/Accessibility_Technology-6A5ACD?style=for-the-badge&logo=accessibility&logoColor=white)
+
+## 🚧 Currently Building
+
+- A beginner-friendly IT project portfolio
+- Database and SQL projects
+- Python automation and web scraping projects
+- Cloud and network security practice labs
+
+## 🏅 Certifications
+
+- AWS Academy Graduate - Cloud Foundations
+- Excel Essential Training (Microsoft 365)
+- Business Analysis for Project Managers
+- Direct Support Professional Certified - Level I
+
+## 📊 GitHub Stats
+
+![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaVu-stack&show_icons=true&theme=default)
