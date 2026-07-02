@@ -43,7 +43,7 @@ I am an Information Technology major at Towson University with a Network Securit
 ### [Tri-SQL Systems Database Project](https://github.com/lanaVu-stack/TriSQL-Systems-Database)
 Relational SQLite database project for a simulated technology consulting and product support business.
 
-### [Google Maps API Destination Explorer][(https://github.com/lanaVu-stack](https://github.com/lanaVu-stack/Google-Maps-API-Destination-Explorer)
+### [Google Maps API Destination Explorer](https://github.com/lanaVu-stack/Google-Maps-API-Destination-Explorer)
 Interactive web mapping project using HTML, CSS, JavaScript, and the Google Maps API.
 
 ### [Python Web Crawler Scraper](https://github.com/lanaVu-stack/Python-Web-Crawler-Scraper)
