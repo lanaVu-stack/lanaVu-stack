@@ -68,7 +68,7 @@ Python web scraping project using Requests and BeautifulSoup to extract web craw
 
 ## 🏅 Certifications
 
-- CompTIA Security+ (SY0-701) — In Progress, exam scheduled for August 2026
+- CompTIA Security+ (SY0-701) — In Progress
 - AWS Academy Graduate - Cloud Foundations
 - Excel Essential Training (Microsoft 365)
 - Business Analysis for Project Managers
